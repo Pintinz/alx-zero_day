@@ -1,2 +1,1 @@
-My second readme
-Software Engineering 
+My second readme 
